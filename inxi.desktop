@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=inxi is a full featured CLI system information tool. 
+Terminal=true
+Name=inxi
+Exec=inxi -Fxxc0
+Type=Application
+Icon=jockey

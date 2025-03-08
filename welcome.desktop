@@ -1,0 +1,11 @@
+[Desktop Entry]
+Terminal=false
+Icon=/usr/share/icons/rescue/distributor-logo-ar.svg
+Type=Application
+Exec=sh /usr/bin/welcome-a_r.bash
+Name=Rescue Welcome
+GenericName=Rescue Welcome App
+Comment=Main Rescue Welcome Panel.
+X-XFCE-Autostart-Delay=5
+
+StartupNotify=true
