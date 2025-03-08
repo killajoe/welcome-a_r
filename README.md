@@ -4,7 +4,7 @@
 
 (**click image to open yt video**)
 
-Used on my attempt to create a system rescue ISO made of ANtergos ISO Framework and Archiso:
+Used on my attempt to create a system rescue ISO made of [Antergos](https://en.wikipedia.org/wiki/Antergos) ISO Framework and Archiso:
 
 https://github.com/killajoe/antergos-rescue
 
